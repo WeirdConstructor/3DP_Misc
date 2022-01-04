@@ -1,4 +1,4 @@
-Generic (Filament) Spool Holder
+# Generic (Filament) Spool Holder
 
 You need to print the following files:
 
@@ -8,7 +8,7 @@ You need to print the following files:
 
 ![Generic Filament Spool Holder Manifest](https://github.com/WeirdConstructor/3DP_Misc/raw/master/generic_spool_holder/res/generic_spool_holder_stl_file_manifest.png)
 
-### Assembly:
+## Assembly:
 
 ![Generic Filament Spool Holder Wall Mount](https://github.com/WeirdConstructor/3DP_Misc/raw/master/generic_spool_holder/res/wall_mount.png)
 
